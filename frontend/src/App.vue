@@ -2,7 +2,7 @@
 	<div id="appDiv">
 		<div id="blog-header">
 			<img alt="Trevor Logo" src="./assets/logo.png" id="corner-logo"/>
-			<p>Welcome to my blog page, where I keep track of some useful web development tricks and best practices as I learn.</p>
+			<p>Hey, welcome to my blog page where I try to keep track of some of the things I learn as a software engineer.</p>
 		</div>
 		<div id="post-container">
 			<Post v-for="post in this.shownPosts" :key="post.postNumber" :postInfo="post"></Post>
