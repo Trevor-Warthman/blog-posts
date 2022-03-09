@@ -41,6 +41,16 @@ export default {
 			title: "Test 2", 
 			body: "Cold fusion is bad."
 		});
+		this.allPosts.push({
+			id: 3,
+			postNumber: 3,
+			title: "How to create nice border animations with CSS",
+			body: `Something that looks and feels cool is a sleek border animation on hover. Here are a few little examples on how you can put one together. 
+			https://jsfiddle.net/twarthman/b3o7hntu/76/
+			https://jsfiddle.net/twarthman/kw9Lhb6s/177/
+			https://jsfiddle.net/twarthman/tz0m74aj/61/
+			`
+		});
 
 	this.divideUpPosts();
 	
