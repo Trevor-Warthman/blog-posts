@@ -27,3 +27,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 firebase deploy
 ```
+
+
+Automatically deploys on github
