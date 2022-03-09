@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "trevor-warthman-posts",
-    "public": "public",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
